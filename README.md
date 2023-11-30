@@ -2,31 +2,31 @@
 
 ### Source : SNU factcheck
 
-![](img1.png)
+![](content/img1.png)
 
 ## Label data ratio
 
 - Original Data : 사실, 대체로 사실, 판단 유보, 절반의 사실, 대체로 사실 아님, 전혀 사실 아님
 - Transformed Data : 사실, 거짓
 
-![](judge_pie.png)
+![](content/judge_pie.png)
 ## Date frequency
 
-![](sequence_line.png)
+![](content/sequence_line.png)
 
 ## Word frequency analysis
 
 
 #### Title
-![](title_bar.png)
+![](content/title_bar.png)
 #### Source
-![](source_bar.png)
+![](content/source_bar.png)
 ## Word Crowd
 
 #### Title
-![](title_wc.png)
+![](content/title_wc.png)
 #### Source
-![](source_wc.png)
+![](content/source_wc.png)
 ## Machine Learning
 
 ### Classification - Logistic Regression
