@@ -11,31 +11,31 @@
 | 고유 번호 | snu 업로드 기준 날짜 | 데이터 제목 | 데이터 출처 추출을 위한 내용 크롤링 | 허위 여부 | 
 ### Source : SNU factcheck
 
-![](img1%201.png)
+![](img1.png)
 
 ## Label data ratio
 
 - Original Data : 사실, 대체로 사실, 판단 유보, 절반의 사실, 대체로 사실 아님, 전혀 사실 아님
 - Transformed Data : 사실, 거짓
 
-![](judge_pie%201.png)
+![](judge_pie.png)
 ## Date frequency
 
-![](sequence_line%201.png)
+![](sequence_line.png)
 
 ## Word frequency analysis
 
 
 #### Title
-![](title_bar%201.png)
+![](title_bar.png)
 #### Source
-![](source_bar%201.png)
+![](source_bar.png)
 ## Word Crowd
 
 #### Title
-![](title_wc%201.png)
+![](title_wc.png)
 #### Source
-![](source_wc%201.png)
+![](source_wc.png)
 ## Using for ML
 
 해당 데이터셋만을 사용하여 머신 러닝을 진행할 경우 데이터 비대칭성으로 인한 문제가 발생할 수 있음
