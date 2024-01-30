@@ -18,24 +18,24 @@
 - Original Data : 사실, 대체로 사실, 판단 유보, 절반의 사실, 대체로 사실 아님, 전혀 사실 아님
 - Transformed Data : 사실, 거짓
 
-![](judge_pie.png)
+![](content/judge_pie.png)
 ## Date frequency
 
-![](sequence_line.png)
+![](content/sequence_line.png)
 
 ## Word frequency analysis
 
 
 #### Title
-![](title_bar.png)
+![](content/title_bar.png)
 #### Source
-![](source_bar.png)
+![](content/source_bar.png)
 ## Word Crowd
 
 #### Title
-![](title_wc.png)
+![](content/title_wc.png)
 #### Source
-![](source_wc.png)
+![](content/source_wc.png)
 ## Using for ML
 
 해당 데이터셋만을 사용하여 머신 러닝을 진행할 경우 데이터 비대칭성으로 인한 문제가 발생할 수 있음
